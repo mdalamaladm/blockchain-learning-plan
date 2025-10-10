@@ -1,6 +1,6 @@
 # Blockchain Learning Plan
 
-- [ ] 1. Introduction to Blockchain: What is blockchain, history, and why it matters (Write a 1-page summary explaining blockchain in your own words)
+- [x] 1. Introduction to Blockchain: What is blockchain, history, and why it matters (Write a 1-page summary explaining blockchain in your own words)
 - [ ] 2. Basic Cryptography: Hash functions, SHA-256, digital signatures (Implement SHA-256 hashing on text using Python/JS)
 - [ ] 3. Types of Blockchain: Public, private, consortium (Compare 2 blockchain types and write a pros/cons table)
 - [ ] 4. Blockchain Architecture: Blocks, chain, nodes, network (Draw a blockchain diagram showing nodes and blocks)
